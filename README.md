@@ -11,26 +11,27 @@ We are going to rock the 9-1-1 site! We will be professional. We will have fun!
 [cresa]:http://www.cresa911.org
 
 ###<u>Analysis of Strengths and Developmental Needs</u>:
-After discussing the classes our team has taken previous to this course, skill sets, prior life experiences, personality traits, and level of commitment to the project we were able to determine our strengths and needs. We recognize that our needs may change as we have more information about the client’s requirements for the project.
+After discussing the classes our team has taken previous to this course, skill sets, prior life experiences, personality traits, and level of commitment to the project we were able to determine our strengths and needs. We recognize that our needs may change as we have more information about the client’s requirements for the project.  
+
 **Strengths**:
-- **Knowledge and Skills:**
-   Everyone on the team has had some experience with html5, css3, Photoshop, and Illustrator. All team members know how to do research and have had some experience with user experience design. More than half the team has had some skill with multiple languages (Python, JavaScript, php, etc.). Our team leader has extensive knowledge of and passion for the development tools we will be using for this project. Every team member has expressed a willingness eagerness to share knowledge with the other members of the team. We all expect to learn as we work on the project.
-- **Background and Experience:**
-   In addition to our experiences at Clark College, each of our team members brings life experiences from previous projects/work which will be an asset to the team. Multiple team members have successfully worked for clients on past projects.
-- **Interpersonal Skills:**
-   This team has great communication skills. Each member has a great sense of humor which we feel will be an asset in the coming weeks. Each team member also has a high level of commitment to the project. 66% of the team is confident in their people skills. Each member has exhibited a willingness to be flexible, punctual, and communicate if any issues arise. 33% of the group is organized and will attempt to assist the other 66.99% with their organizational skills for this project.
+- **Knowledge and Skills:**  
+Everyone on the team has had some experience with html5, css3, Photoshop, and Illustrator. All team members know how to do research and have had some experience with user experience design. More than half the team has had some skill with multiple languages (Python, JavaScript, php, etc.). Our team leader has extensive knowledge of and passion for the development tools we will be using for this project. Every team member has expressed a willingness eagerness to share knowledge with the other members of the team. We all expect to learn as we work on the project.
+- **Background and Experience:**  
+In addition to our experiences at Clark College, each of our team members brings life experiences from previous projects/work which will be an asset to the team. Multiple team members have successfully worked for clients on past projects.
+- **Interpersonal Skills:**  
+This team has great communication skills. Each member has a great sense of humor which we feel will be an asset in the coming weeks. Each team member also has a high level of commitment to the project. 66% of the team is confident in their people skills. Each member has exhibited a willingness to be flexible, punctual, and communicate if any issues arise. 33% of the group is organized and will attempt to assist the other 66.99% with their organizational skills for this project.
 
 **Development Needs:**
-- **Lack of Skills:**
-   Some team members have not worked with some of the technology we will be using for the project before. For example, at least one member will need to learn to successfully use gitHUB. In addition, we expect each member to learn at least one new skill (see Team Objectives) while working on this project.
+- **Lack of Skills:**  
+Some team members have not worked with some of the technology we will be using for the project before. For example, at least one member will need to learn to successfully use gitHUB. In addition, we expect each member to learn at least one new skill (see Team Objectives) while working on this project.
 
 ###<u>Functional Roles</u>:
-Team Leader: Jino Conklin
-Project Manager: Christine Watson
-Communications: David Larson
-Master Developer: Jino Conklin
-Front End Dev. & Design: Christine Watson
-QA & Testing: David Larson
+Team Leader: Jino Conklin  
+Project Manager: Christine Watson  
+Communications: David Larson  
+Master Developer: Jino Conklin  
+Front End Dev. & Design: Christine Watson  
+QA & Testing: David Larson  
 
 ###<u>Team Process Management</u>:
 ####Team Meetings:
@@ -60,16 +61,16 @@ We will communicate with each other via email, phone, text, google+, google hang
 <em>QA & Testing</em> will be responsible for ensuring the client is getting the website they want (and we agreed to create) in a timely manner without any bugs. We acknowledge extensive testing will be required in order to accomplish this goal.
 
 ####Expectations of Team Members:
-**Attendance:**
+**Attendance:**  
 Attendance is expected for every meeting. If a member is going to be later or not able to attend a meeting they should let the other members know as soon as possible.  If a group member does not communicate that they will be late or unable to attend OR if a group member simply does not show up, we will implement our discipline policy.
 - First Offense: Team member will bring treats to our next meeting. 
 - Second Offense: The other team members will begin a log for performance review. This log will be used to show if the team member improved performance after the second offense or if they continued to slack. This will affect their grade in class.
 - Third Offense: We feel confident it won’t happen. It will fall to the team leader to make a decision.
 
-**Participation:**
+**Participation:**  
 All members are expected to participate fully. Not participating or communicating well may lead to the offending member being disciplined (see above). Each team member will be expected to meet deadlines and learning goals in a timely manner. To encourage team participation we will communicate with each other with “How are you doing?” emails. We will also have lots of mini-deadlines using the issue tracker in github. The team leader will set a 48 hour timer in github for updates. If any team member feels another team member is not pulling their weight or meeting their deadlines, they will confront the offending team member. If there is not a resolution, they may bring it up at the next meeting. If there is a problem we will begin the performance log discussed earlier.
 
-**General Courtesy and Respect**
+**General Courtesy and Respect:**  
 It is very important to us that we treat each other with respect. We will behave professionally. We will not belittle anyone or use harsh words. Constructive criticism is okay. We will respect each other by communicating often and with encouraging words. We will help each other.
 
 ###<u>Assessment of Team Effectiveness</u>:
